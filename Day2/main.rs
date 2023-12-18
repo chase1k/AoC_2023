@@ -3,7 +3,7 @@ use std::io::{self, BufRead};
 use std::path::Path;
 
 fn main() {
-    println!("Day 2 hour 0\nNo idea what I'm doing");
+    println!("Day 2 hour 0\nStill idea what I'm doing");
 
     // Define maxes for nums
     const RED_MAX :i32 = 12;
